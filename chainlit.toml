@@ -1,0 +1,7 @@
+[project]
+# Enable persistence
+persistence_manager = "local"
+
+[features]
+# Enable multi-modal
+multi_modal = true
